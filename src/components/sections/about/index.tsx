@@ -122,7 +122,7 @@ About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I am Brittany, a passionate software engineer with a strong background in retail/ecommerce/finance service web application.
+              Hello! I am Bui, a passionate software engineer with a strong background in retail/ecommerce/finance service web application.
               My journey in development began in 2016 when I graduate University. Since then I've honed my skills in 
               JavaScript, PHP and delved into various industry domains, including Finance and Retail / Ecommerce, and Crypto Currency Field.
             </p>

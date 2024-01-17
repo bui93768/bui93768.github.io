@@ -13,10 +13,10 @@ import { colors } from "@config/index";
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Portfolio`,
-    description: `Brittany Lee is a software engineer who specializes in building (and ocassionally designing) websites`,
+    description: `Bui Quang is a software engineer who specializes in building (and ocassionally designing) websites`,
     siteUrl: `https://google.com`,
     image: './og.png',
-    twitterUsername: '@brittanylee6145'
+    twitterUsername: '@bui93768'
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -30,8 +30,8 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Yevhen Pom`,
-        short_name: `Yevhen`,
+        name: `Bui Quang`,
+        short_name: `Bui`,
         start_url: `/`,
         background_color: `#663399`,
         display: `minimal-ui`,

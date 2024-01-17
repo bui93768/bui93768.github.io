@@ -1,17 +1,17 @@
-export const email = 'brittanylee6145@gmail.com'
+export const email = 'bui93768@gmail.com'
 
 export const socialMedia = [
   {
     name: 'Github',
-    url: 'https://www.github.com/brittanylee6145'
+    url: 'https://www.github.com/bui93768'
   },
   {
     name: 'Twitter',
-    url: 'https://twitter.com/brittanylee6145'
+    url: 'https://twitter.com/bui93768'
   },
   {
     name: 'CodePen',
-    url: 'https://codepen.io/brittanylee6145'
+    url: 'https://codepen.io/bui93768'
   }
 ]
 

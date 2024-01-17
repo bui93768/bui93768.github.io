@@ -12,7 +12,7 @@ var _interopRequireDefault = __webpack_require__(4836);
 exports.__esModule = true;
 exports["default"] = void 0;
 var _inheritsLoose2 = _interopRequireDefault(__webpack_require__(7867));
-var _react = _interopRequireDefault(__webpack_require__(5794));
+var _react = _interopRequireDefault(__webpack_require__(9635));
 var AppShell = /*#__PURE__*/function (_React$Component) {
   (0, _inheritsLoose2.default)(AppShell, _React$Component);
   function AppShell() {

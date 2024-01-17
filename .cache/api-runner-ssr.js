@@ -1,30 +1,30 @@
 var plugins = [{
       name: 'gatsby-plugin-styled-components',
-      plugin: require('/home/biryus/Workspaces/Github/Brittany/brittanylee6145.github.io/node_modules/gatsby-plugin-styled-components/gatsby-ssr.js'),
+      plugin: require('/home/biryus/Workspaces/Github/Bui/bui93768.github.io/node_modules/gatsby-plugin-styled-components/gatsby-ssr.js'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"topLevelImportPaths":[],"pure":false,"disableVendorPrefixes":false},
     },{
       name: 'gatsby-plugin-react-helmet',
-      plugin: require('/home/biryus/Workspaces/Github/Brittany/brittanylee6145.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('/home/biryus/Workspaces/Github/Bui/bui93768.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-image',
-      plugin: require('/home/biryus/Workspaces/Github/Brittany/brittanylee6145.github.io/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
+      plugin: require('/home/biryus/Workspaces/Github/Bui/bui93768.github.io/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-sitemap',
-      plugin: require('/home/biryus/Workspaces/Github/Brittany/brittanylee6145.github.io/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
+      plugin: require('/home/biryus/Workspaces/Github/Bui/bui93768.github.io/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
       options: {"plugins":[],"output":"/","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
     },{
       name: 'gatsby-plugin-manifest',
-      plugin: require('/home/biryus/Workspaces/Github/Brittany/brittanylee6145.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
-      options: {"plugins":[],"name":"Yevhen Pom","short_name":"Yevhen","start_url":"/","background_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"4a9773549091c227cd2eb82ccd9c5e3a"},
+      plugin: require('/home/biryus/Workspaces/Github/Bui/bui93768.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
+      options: {"plugins":[],"name":"Bui Quang","short_name":"Bui","start_url":"/","background_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"4a9773549091c227cd2eb82ccd9c5e3a"},
     },{
       name: 'gatsby-plugin-offline',
-      plugin: require('/home/biryus/Workspaces/Github/Brittany/brittanylee6145.github.io/node_modules/gatsby-plugin-offline/gatsby-ssr.js'),
+      plugin: require('/home/biryus/Workspaces/Github/Bui/bui93768.github.io/node_modules/gatsby-plugin-offline/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
       name: 'partytown',
-      plugin: require('/home/biryus/Workspaces/Github/Brittany/brittanylee6145.github.io/node_modules/gatsby/dist/internal-plugins/partytown/gatsby-ssr.js'),
+      plugin: require('/home/biryus/Workspaces/Github/Bui/bui93768.github.io/node_modules/gatsby/dist/internal-plugins/partytown/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 /* global plugins */

@@ -1,4 +1,4 @@
-### Type definitions saved at 2024-01-12T18:10:54.784Z ###
+### Type definitions saved at 2024-01-17T16:52:49.161Z ###
 
 enum RemoteFileFit {
   COVER
@@ -678,11 +678,11 @@ type MarkdownRemarkFrontmatter {
   company: String
   role: String
   showInProjects: Boolean
+  ios: String
+  android: String
+  cover: File @fileByRelativePath
   location: String
   range: String
   url: String
   skills: String
-  cover: File @fileByRelativePath
-  ios: String
-  android: String
 }
